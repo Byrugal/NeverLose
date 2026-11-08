@@ -4,7 +4,7 @@ How to launch:
 3. Open loader
 Notes: It may crash, if it does, try again.
 
-Go to Discod:
+Go to Discord:
 https://discord.gg/4CB5yPd5AJ
 https://discord.gg/4CB5yPd5AJ
 https://discord.gg/4CB5yPd5AJ
